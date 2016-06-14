@@ -1,6 +1,6 @@
 <?php
 /**********************************************************************
- * buy.php = For Cross-Site Request Forgery attach
+ * buy.php = For Cross-Site Request Forgery attack
  **********************************************************************/
 
 // database connection 
