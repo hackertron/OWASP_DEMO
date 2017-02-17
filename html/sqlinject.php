@@ -24,7 +24,7 @@
 // database connection
 $dsn = 'mysql:host=localhost;dbname=owasp';
 $db_user = 'root';
-$db_password = 'kamehameha';
+$db_password = '';
 $dbh = new PDO($dsn, $db_user, $db_password);
 
 // login credentials
