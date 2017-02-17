@@ -6,7 +6,7 @@
 // database connection 
 $dsn = 'mysql:host=localhost;dbname=owasp';
 $db_user = 'root';
-$db_pass = 'kamehameha';
+$db_pass = ''; // enter password
 $dbh = new PDO($dsn, $db_user, $db_pass);
 
 session_start();
